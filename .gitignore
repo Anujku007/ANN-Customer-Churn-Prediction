@@ -1,14 +1,29 @@
+# Virtual Environment
 venv/
+.venv/
+env/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-*.pyc
-*.pyo
+# VS Code
+.vscode/
 
-model.h5
-*.keras
-*.pkl
+# TensorBoard logs
+logs/
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
 .env
 
-.DS_Store
+# Build files
+build/
+dist/
+*.egg-info/
