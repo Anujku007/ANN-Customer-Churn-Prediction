@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+model.h5
+*.keras
+*.pkl
+
+.env
+
+.DS_Store
