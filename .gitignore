@@ -27,3 +27,12 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+
+venv/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
