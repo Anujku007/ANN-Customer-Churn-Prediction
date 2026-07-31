@@ -353,7 +353,7 @@ Contributions are welcome!
 
 # 👨‍💻 Author
 
-**Anuj Yadav**
+**Anuj Kumar**
 
 📧 Passionate about Machine Learning, Deep Learning, and AI.
 
